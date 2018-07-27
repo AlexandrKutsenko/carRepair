@@ -1,2 +1,0 @@
-[2018-06-25 19:51:27] layer "+7 (499) 391-71-53 Заказать обратный звонок": Expected Either a default asset specification or a layer asset specification but "+" found.
-[2018-06-26 05:14:43] layer "© avtohall.com 2013": Expected end of input but "2" found.
